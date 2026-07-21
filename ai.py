@@ -1,0 +1,1 @@
+from services.openai_service import fetch_ai_response
