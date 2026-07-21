@@ -1,0 +1,21 @@
+# Environment config
+.env
+
+# Python compilation items
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+env/
+ENV/
+
+# IDE setups
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Temporary directories
+data/
